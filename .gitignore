@@ -1,0 +1,6 @@
+# The cached Protein consortium data
+.pro/
+
+# In case the ontology and annotation files end up outside the `.pro` files
+*.obo
+*.paf
